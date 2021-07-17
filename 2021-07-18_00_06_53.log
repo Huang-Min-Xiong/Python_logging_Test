@@ -1,0 +1,5 @@
+[D 20210718 00:06:53 main:23] debug
+[I 20210718 00:06:53 main:24] info
+[W 20210718 00:06:53 main:25] warning
+[E 20210718 00:06:53 main:26] error
+[C 20210718 00:06:53 main:27] critical
